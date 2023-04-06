@@ -1,6 +1,10 @@
 body {
   font-family: "Poppins";
+  display: block;
+  margin: 8px;
+  background-color: #272044;
 }
+
 h1 {
   font-style: normal;
   font-weight: 700;
