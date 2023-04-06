@@ -86,7 +86,25 @@ footer a:hover {
 h4 {
   font-size: 24px;
 }
-
+.secondary-section {
+  background-color: #eaf0f7;
+  padding: 10px;
+}
+.grid-cards {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 8px;
+}
+.card {
+  background-color: #fff;
+  padding: 10px;
+}
+.card h4 {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 1.5;
+  color: #272844;
+}
 @media (max-width: 960px) {
   header {
     padding: 60px 0;
