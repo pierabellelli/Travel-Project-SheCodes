@@ -10,6 +10,13 @@ h1 {
   font-weight: 700;
   font-size: 88px;
 }
+h5 {
+  font-size: 13px;
+  line-height: 1;
+  color: #272044;
+  font-weight: 700;
+}
+
 header {
   background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
     url("https://images.unsplash.com/photo-1597154553108-234509fc555f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80");
